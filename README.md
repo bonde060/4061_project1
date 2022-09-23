@@ -1,1 +1,2 @@
-# 4061_project1
+# project_1_posted
+Project #1 outline for students
